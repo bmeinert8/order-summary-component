@@ -58,4 +58,21 @@
   .payment-btn {
     width: 22.125rem;
   }
+
+  .payment-btn:hover {
+    background-color: #766CF1;
+    cursor: pointer;
+  }
+
+  .cancel-link:hover {
+    color: #1F2E55;
+    cursor: pointer;
+  }
+
+  .change-link:hover {
+    color: #766CF1;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
 }
