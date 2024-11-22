@@ -1,3 +1,61 @@
-@media (min-width: 376px) {
+@media (min-width: 48rem) {
   
+  .card {
+    height: 43.6rem;
+    width: 28.1rem;
+  }
+
+  .image-container {
+    height: 13.8rem;
+    margin-bottom: 3rem;
+  }
+
+  .text-preset-1 {
+    font-size: 1.75rem;
+  }
+
+  .text-preset-2 {
+    font-size: 1rem;
+  }
+
+  .title {
+    gap: 1.06rem;
+    width: 22.125rem;
+    margin: 0 3rem 1.25rem 3rem;
+  }
+
+  .plan-box {
+    height: 6.13rem;
+    width: 22.125rem;
+    margin-bottom: 2rem;
+  }
+
+  .text-preset-3 {
+    font-size: 1rem;
+  }
+
+  .text-preset-4 {
+    font-size: 1rem;
+  }
+
+  .plan-details {
+    gap: 0.38rem;
+    margin-right: 6.5rem;
+  }
+
+  .music-icon {
+    margin-left: 1.5rem;
+  }
+
+  .text-preset-5 {
+    font-size: 0.875rem;
+  }
+
+  .button-container {
+    gap: 2rem;
+  }
+
+  .payment-btn {
+    width: 22.125rem;
+  }
 }
