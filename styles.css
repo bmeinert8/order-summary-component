@@ -32,6 +32,9 @@ body {
   line-height: 1.5;
   background-color: var(--Pale-blue);
   /* 4. Improve text rendering */
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: top;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
   display: flex;
